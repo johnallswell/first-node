@@ -1,0 +1,19 @@
+{
+  "name": "nodestuff",
+  "version": "10.15.3",
+  "description": "Simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnallswell/first-node.git"
+  },
+  "author": "John Allswell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnallswell/first-node/issues"
+  },
+  "homepage": "https://github.com/johnallswell/first-node#readme"
+}
